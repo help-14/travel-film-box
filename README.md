@@ -6,6 +6,8 @@ Base on Rama's awesome idea and product.
 
 You will need D ring 1/4 screw (tripod screw) to close the box.
 
+If you are planning on CNC 120 box then let me join you T_T
+
 
 <img src="https://i.imgur.com/gGMDdra.png" />
 
